@@ -1,0 +1,50 @@
+:Base BROWSER.hlp
+:Title NewProject
+1 NewProject
+1 DAO Record Set Browser
+2 DAO Record Set Browser=csLibDAORecordSetBrowser
+2 Browser Control
+3 Browser Control=csCtlBrowser
+3 Browser Properties
+4 Autosize=csPAutosizeBrowser
+4 BarBackcolor=csPBarBackcolorBrowser
+4 BarForecolor=csPBarForecolorBrowser
+4 Bookmark=csPBookmarkBrowser
+4 Cols=csPColsBrowser
+4 ColWidth=csPColWidthBrowser
+4 CurrentBookmark=csPCurrentBookmarkBrowser
+4 DisplayName=csPDisplayNameBrowser
+4 DynamicScroll=csPDynamicScrollBrowser
+4 Enabled=csPEnabledBrowser
+4 FieldName=csPFieldNameBrowser
+4 FieldTranslation=csPFieldTranslationBrowser
+4 FullyPopulated=csPFullyPopulatedBrowser
+4 Header=csPHeaderBrowser
+4 OrderedBy=csPOrderedByBrowser
+4 Recordset=csPRecordsetBrowser
+4 RequiredColWidth=csPRequiredColWidthBrowser
+4 SearchFor=csPSearchForBrowser
+4 SelectedRow=csPSelectedRowBrowser
+4 SortOrder=csPSortOrderBrowser
+3 Browser Events
+4 Cancel=csECancelBrowser
+4 OK=csEOKBrowser
+4 PositionChanged=csEPositionChangedBrowser
+4 TranslateColumn=csETranslateColumnBrowser
+3 Browser Methods
+4 AdjustCol=csMAdjustColBrowser
+4 AdjustCols=csMAdjustColsBrowser
+4 EqualColWidth=csMEqualColWidthBrowser
+4 FindFirst=csMFindFirstBrowser
+4 FindLast=csMFindLastBrowser
+4 GoBookmark=csMGoBookmarkBrowser
+4 GoFirst=csMGoFirstBrowser
+4 GoLast=csMGoLastBrowser
+4 Refresh=csMRefreshBrowser
+4 Reposition=csMRepositionBrowser
+4 ScrollLineFwd=csMScrollLineFwdBrowser
+4 ScrollLineRev=csMScrollLineRevBrowser
+4 ScrollPageFwd=csMScrollPageFwdBrowser
+4 ScrollPageRev=csMScrollPageRevBrowser
+1  Constants
+2 SortDirection Constants=csSetSortDirection
